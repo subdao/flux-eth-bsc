@@ -9,7 +9,7 @@ Flux (FLUX)
 440 mil total supply
 8 decimals
 
-```
+```bash
 npm i -g truffle-flattener
 truffle-flattener flux.sol > flux_flat.sol
 ```
